@@ -39,3 +39,5 @@ testem.log
 Thumbs.db
 
 .vscode
+prisma/dev.db
+prisma/dev.db-journal
